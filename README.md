@@ -102,4 +102,4 @@ Created for outreach on behalf of the **AEgIS Collaboration** at **CERN** (Europ
 
 ## 📜 License
 
-No license is currently specified. If you would like others to reuse, modify, or host this game, consider adding one (for example, the [MIT License](https://choosealicense.com/licenses/mit/) for permissive reuse, or [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for educational material). Until a license is added, default copyright applies and reuse rights are reserved.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
